@@ -1,9 +1,10 @@
 # Go-Cloud Project
 
-- 시연영상:
 - 공간대여 플랫폼인 스페이스 클라우드 클론 코딩
 - 사이트 UI만 참고하여 코드는 직접 작성
-- API Documentation:
+- 개발기간이 짧은 만큼 Scrum 방식으로 개발주기는 한 주로 Sprint 진행. 
+- 매일 오전 11시 Daily standing up 미팅을 통해 전날 진행사항 및 블로커등을 공유 각자 개인의 의견을 이야기해 피드백 및 개선점 공유.
+- 라이브러리를 사용해서 프로젝트 진행 및 git 관리는 rebase로 진행.
 - 백엔드 깃헙 주소: https://github.com/wecode-bootcamp-korea/31-2nd-GoCloud-backend
 - 프론트엔드 깃헙 주소: https://github.com/wecode-bootcamp-korea/31-2nd-GoCloud-frontend
 
